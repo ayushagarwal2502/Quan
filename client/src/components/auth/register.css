@@ -1,0 +1,36 @@
+.formss{
+    /* padding-left: 5px;   
+    padding-top: 3px;
+    background-color: lightblue;   */
+    background-color: lightblue; 
+    width: 300px;
+    padding: 25px;
+    border: 3px solid red;
+    box-sizing: border-box;
+    margin-top: 100px;
+    width: 45%;
+    text-align: justify;
+    margin-left: 380px;
+  }
+  input[type=email], input[type=password],input[type=text] {   
+    width: 100%;   
+    margin: 4px 0;  
+    padding: 6px 10px;   
+    display: inline-block;   
+    border: 2px solid green;   
+    box-sizing: border-box;   
+}  
+.buttons:hover {   
+    opacity: 0.7;   
+}    
+.buttons {   
+   background-color: #4CAF50;   
+   width: 100%;  
+   color: rgb(255, 238, 0);   
+   padding: 10px;   
+   margin: 10px 0px;   
+   border: none;   
+   cursor: pointer;   
+   width: 45%;
+   border: 3px solid red;
+    }  
